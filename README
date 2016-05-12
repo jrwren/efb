@@ -1,9 +1,0 @@
-efb - encrypted file backup
-
-Copyright (c) 2014 Jay R. Wren <jrwren@xmtp.net>
-GPL3
-
-efb
----
-efb uses your existing gpg keys to encrypt your files to gpg and then upload them to s3.
-each file is encrypted individually so that recovery can be performed per file.
